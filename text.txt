@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-contoh commitan di dev
-asdasd
-asdasdsad
-asdsa
-=======
+scontoh commitan di dev
 Contoh commit aku di f4
 Contoh commit aku di f4
-Contoh commit aku di f4
-Contoh commit aku di f4
-Contoh commit aku di f4
->>>>>>> feature/4
